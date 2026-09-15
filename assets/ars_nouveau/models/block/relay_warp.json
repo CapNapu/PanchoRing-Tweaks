@@ -1,0 +1,15 @@
+{
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "ars_nouveau:blocks/source_warp"
+  }
+}

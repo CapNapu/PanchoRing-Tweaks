@@ -1,0 +1,64 @@
+{
+  "display": {
+    "fixed": {
+      "translation": [
+        0,
+        -7.75,
+        0
+      ]
+    },
+    "ground": {
+      "scale": [
+        0.3,
+        0.3,
+        0.3
+      ]
+    },
+    "gui": {
+      "rotation": [
+        12,
+        10,
+        0
+      ],
+      "scale": [
+        0.75,
+        0.75,
+        0.75
+      ],
+      "translation": [
+        0,
+        -5.75,
+        0
+      ]
+    },
+    "thirdperson_lefthand": {
+      "scale": [
+        0.66,
+        0.66,
+        0.66
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        0,
+        0
+      ],
+      "scale": [
+        0.45,
+        0.45,
+        0.45
+      ],
+      "translation": [
+        0,
+        1.5,
+        -3.5
+      ]
+    }
+  },
+  "parent": "builtin/entity",
+  "texture_size": [
+    32,
+    32
+  ]
+}

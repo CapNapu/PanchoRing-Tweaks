@@ -1,0 +1,12 @@
+{
+  "wither_waltz": {
+    "category": "record",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "panchoring:ost/zisko_vallsh/nai",
+        "stream": true
+      }
+    ]
+  }
+}

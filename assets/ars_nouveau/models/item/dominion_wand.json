@@ -1,0 +1,25 @@
+{
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        45,
+        90,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ars_nouveau:items/dominion_wand"
+  }
+}
