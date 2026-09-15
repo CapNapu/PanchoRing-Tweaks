@@ -1,0 +1,120 @@
+{
+  "ambientocclusion": false,
+  "display": {
+    "thirdperson_lefthand": {
+      "translation": [
+        0,
+        4,
+        4
+      ]
+    },
+    "thirdperson_righthand": {
+      "translation": [
+        0,
+        4,
+        4
+      ]
+    }
+  },
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "texture": "#0",
+          "uv": [
+            6.5,
+            0,
+            4.5,
+            2.5
+          ]
+        },
+        "east": {
+          "texture": "#0",
+          "uv": [
+            0,
+            2.5,
+            2.5,
+            4.5
+          ]
+        },
+        "north": {
+          "texture": "#0",
+          "uv": [
+            2.5,
+            2.5,
+            4.5,
+            4.5
+          ]
+        },
+        "south": {
+          "texture": "#0",
+          "uv": [
+            7,
+            2.5,
+            9,
+            4.5
+          ]
+        },
+        "up": {
+          "texture": "#0",
+          "uv": [
+            4.5,
+            2.5,
+            2.5,
+            0
+          ]
+        },
+        "west": {
+          "texture": "#0",
+          "uv": [
+            4.5,
+            2.5,
+            7,
+            4.5
+          ]
+        }
+      },
+      "from": [
+        5.5,
+        -0.5,
+        2.5
+      ],
+      "name": "glove",
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          2,
+          5.5
+        ]
+      },
+      "to": [
+        10.5,
+        4.5,
+        8.5
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "children": [
+        0
+      ],
+      "name": "glove",
+      "origin": [
+        8,
+        8,
+        8
+      ]
+    }
+  ],
+  "texture_size": [
+    32,
+    32
+  ],
+  "textures": {
+    "0": "alexsmobs:item/falconry_glove_model",
+    "particle": "alexsmobs:item/falconry_glove_model"
+  }
+}

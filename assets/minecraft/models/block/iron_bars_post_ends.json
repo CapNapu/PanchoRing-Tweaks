@@ -1,0 +1,74 @@
+{
+  "ambientocclusion": false,
+  "credit": "Created by Stridey",
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "texture": "#edge",
+          "uv": [
+            7,
+            7,
+            9,
+            9
+          ]
+        },
+        "up": {
+          "texture": "#edge",
+          "uv": [
+            7,
+            7,
+            9,
+            9
+          ]
+        }
+      },
+      "from": [
+        7,
+        0.025,
+        7
+      ],
+      "to": [
+        9,
+        0.025,
+        9
+      ]
+    },
+    {
+      "faces": {
+        "down": {
+          "texture": "#edge",
+          "uv": [
+            7,
+            7,
+            9,
+            9
+          ]
+        },
+        "up": {
+          "texture": "#edge",
+          "uv": [
+            7,
+            7,
+            9,
+            9
+          ]
+        }
+      },
+      "from": [
+        7,
+        15.965,
+        7
+      ],
+      "to": [
+        9,
+        15.965,
+        9
+      ]
+    }
+  ],
+  "textures": {
+    "edge": "block/iron_bars",
+    "particle": "block/iron_bars"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "projectvibrantjourneys:block/rocks0",
+  "textures": {
+    "0": "block/sandstone",
+    "particle": "block/sandstone"
+  }
+}
