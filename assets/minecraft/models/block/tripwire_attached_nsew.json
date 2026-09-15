@@ -1,0 +1,95 @@
+{
+  "ambientocclusion": false,
+  "credit": "Created by Stridey",
+  "elements": [
+    {
+      "faces": {
+        "down": {
+          "rotation": 90,
+          "texture": "#texture",
+          "uv": [
+            16,
+            2,
+            0,
+            4
+          ]
+        },
+        "up": {
+          "rotation": 90,
+          "texture": "#texture",
+          "uv": [
+            0,
+            2,
+            16,
+            4
+          ]
+        }
+      },
+      "from": [
+        7,
+        1,
+        0
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          15,
+          8,
+          8
+        ]
+      },
+      "to": [
+        9,
+        1,
+        16
+      ]
+    },
+    {
+      "faces": {
+        "down": {
+          "texture": "#texture",
+          "uv": [
+            16,
+            2,
+            0,
+            4
+          ]
+        },
+        "up": {
+          "rotation": 180,
+          "texture": "#texture",
+          "uv": [
+            0,
+            2,
+            16,
+            4
+          ]
+        }
+      },
+      "from": [
+        0,
+        1.001,
+        7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          1,
+          8
+        ]
+      },
+      "to": [
+        16,
+        1.001,
+        9
+      ]
+    }
+  ],
+  "textures": {
+    "particle": "block/tripwire",
+    "texture": "block/tripwire"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "extcaves:item/rockpile_three",
+  "textures": {
+    "0": "block/deepslate_top",
+    "particle": "block/deepslate"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "ambientocclusion": true,
+  "display": {
+    "fixed": {
+      "translation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "gui": {
+      "translation": [
+        0,
+        0,
+        0
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        10,
+        0,
+        0
+      ],
+      "scale": [
+        1.15,
+        1.15,
+        1.15
+      ],
+      "translation": [
+        0,
+        -3,
+        -3
+      ]
+    }
+  },
+  "gui_light": "front",
+  "overrides": [
+    {
+      "model": "iceandfire:item/tide_trident_throwing",
+      "predicate": {
+        "throwing": 1
+      }
+    }
+  ],
+  "parent": "builtin/entity"
+}

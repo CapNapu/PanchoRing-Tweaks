@@ -1,0 +1,7 @@
+{
+  "parent": "extcaves:block/rock_stalactite_tall_lower",
+  "textures": {
+    "0": "block/deepslate_top",
+    "particle": "block/deepslate"
+  }
+}

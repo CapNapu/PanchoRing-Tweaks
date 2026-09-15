@@ -1,0 +1,22 @@
+{
+  "item.crossbow.loading_end": {
+    "category": "entity",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "minecraft/sounds/item/crossbow/loading_end"
+      }
+    ],
+    "subtitle": "item.crossbow.loading_end"
+  },
+  "item.crossbow.loading_start": {
+    "category": "entity",
+    "replace": "true",
+    "sounds": [
+      {
+        "name": "minecraft/sounds/item/crossbow/loading_start"
+      }
+    ],
+    "subtitle": "item.crossbow.loading_start"
+  }
+}
